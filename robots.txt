@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucifeopo.github.io/Bjs/sitemap_index.txt
+Sitemap: https://ucifeopo.github.io/KaQ/sitemap_index.txt
+Sitemap: https://ucifeopo.github.io/XrS/sitemap_index.txt
+Sitemap: https://ucifeopo.github.io/hjE/sitemap_index.txt
